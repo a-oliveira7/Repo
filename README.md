@@ -3,7 +3,7 @@
 #### Project #1
 http://eve.kean.edu/~oliveand/Personal/AOliveira.html
 
-Description: A personal website that shows off some of my accomplishments and work, acts as my professional portfolio
+Description: A personal website that shows off some of my accomplishments and work, acts as a potential portfolio
 
 #### Project #2
 http://eve.kean.edu/~oliveand/AstroVille/AstroVille.html
