@@ -2,6 +2,7 @@
 
 #### Project #1
 http://eve.kean.edu/~oliveand/MS/Main.html
+
 Description: A complete "Web Dev Story" focusing on calculators to help within a gym. This project adopts a Design Thinking approach through a front-end website build that serves to be aesthetically pleasing, while being functional at the same time. 
 
 #### Project #2
